@@ -1,1 +1,1 @@
-The first content of this REadMe
+The first content of this README.
